@@ -1,4 +1,4 @@
-BDecoder
+BDecoder Torrent文件解析类
 ========
 
 Torrent File Decoder
