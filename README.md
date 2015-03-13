@@ -8,3 +8,5 @@ Torrent File Decoder
           //data is the torrent's ByteArray
           var item:Item = parser.decodeStream(data);
           var info:TorrentInfo = new TorrentInfo(item);
+
+Online: http://kingnare.github.io/bdecoder/
