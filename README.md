@@ -10,6 +10,3 @@ Torrent File Decoder
           var info:TorrentInfo = new TorrentInfo(item);
 
 Online: http://kingnare.github.io/bdecoder/
-
-
-![img](https://github.com/kingnare/kingnare.github.io/raw/master/A.png)
